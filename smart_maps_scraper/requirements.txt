@@ -1,5 +1,0 @@
-streamlit
-selenium
-pandas
-requests
-python-dotenv
